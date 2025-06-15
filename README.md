@@ -1,4 +1,4 @@
-# Northwind SQL Practice – Task 3
+# Northwind SQL
 
 This project contains SQL queries written to practice core SQL skills using the **Northwind** sample database (`northwind.db`) in SQLite format.
 
